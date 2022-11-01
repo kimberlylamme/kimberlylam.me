@@ -71,8 +71,10 @@ const config = {
             label: 'Notes',
           },
           // { to: '/blog', label: 'Blog', position: 'left' },
+          { to: '/projects', label: 'Projects', position: 'left' },
+
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/kimberlylamme',
             label: 'GitHub',
             position: 'right',
           },
